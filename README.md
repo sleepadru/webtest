@@ -1,4 +1,4 @@
-# Florence
+# Ellie
 
 A landing page template.
 

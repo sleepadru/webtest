@@ -65,8 +65,7 @@
 @mixin divider-mix {
 	display: block;
 	height: 1px;
-	background: color(bg, 3);
-	background: linear-gradient(to right, rgba(color(bg, 3), .24) 0, rgba(color(bg, 3), 1) 50%, rgba(color(bg, 3), .24) 100%);
+	background: rgba(color(bg, 3), .5);
 }
 
 @mixin divider($type: false) {
